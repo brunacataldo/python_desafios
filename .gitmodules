@@ -1,0 +1,3 @@
+[submodule "python_desafios"]
+	path = python_desafios
+	url = https://github.com/brunacataldo/python_desafios.git
